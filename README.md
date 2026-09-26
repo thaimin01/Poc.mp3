@@ -100,3 +100,18 @@ Bill Of Materials
 | U7                              | 1   | FP6276B                        |     |                  |                    |                         | ${EXCLUDE_FROM_POS_FILES}   | Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm             |                                                                                                                                             | $4.50      | (5pcs package)        |
 |                                 |     |                                |     |                  |                    |                         |                             |                                                                | Total                                                                                                                                       | 57.25      | $                     |
 
+Cost
+
+5pcs of 4 layers PCB: ~$30.00 (for 55.245mm x 102.133)
+
+Total of the components: ~$57.25
+
+If you want to do 3d printing: ~$22.00 in ABS material
+
+
+
+Total: 87.25 $ or 102.25 $
+
+
+
+Get $100 - $125, this might give you some headroom depends on your country !!!!
