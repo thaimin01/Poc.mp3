@@ -98,20 +98,20 @@ Bill Of Materials
 | U5                              | 1   | ESP32-S3-WROOM-1               |     |                  |                    |                         | ${EXCLUDE_FROM_POS_FILES}   | RF_Module:ESP32-S3-WROOM-1                                     | https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf                                      | $5         | single                |
 | U6                              | 1   | PCM5102A                       |     |                  |                    |                         | ${EXCLUDE_FROM_POS_FILES}   | Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm                          | https://www.ti.com/lit/ds/symlink/pcm5102a.pdf                                                                                              | $2.70      | single                |
 | U7                              | 1   | FP6276B                        |     |                  |                    |                         | ${EXCLUDE_FROM_POS_FILES}   | Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm             |                                                                                                                                             | $4.50      | (5pcs package)        |
-|                                 |     |                                |     |                  |                    |                         |                             |                                                                | Total                                                                                                                                       | 57.25      | $                     |
+|                                 |     |                                |     |                  |                    |                         |                             |                                                                | Total                                                                                                                                       | 57.25 $/1.487.441 VND     |                     |
 
 Cost
 
-5pcs of 4 layers PCB: ~$30.00 (for 55.245mm x 102.133)
+5pcs of 4 layers PCB: ~$30.00/779.445 VND (for 55.245mm x 102.133)
 
-Total of the components: ~$57.25
+Total of the components: ~$57.25/1.487.441 VND
 
-If you want to do 3d printing: ~$22.00 in ABS material
-
-
-
-Total: 87.25 $ or 102.25 $
+If you want to do 3d printing: ~$22.00/571.593 VND in ABS material
 
 
 
-Get $100 - $125, this might give you some headroom depends on your country !!!!
+Total: 87.25 $/ 2.266.886 VND or 102.25 $/ 2.656.608 VND
+
+
+
+Get $100 - $125/ 2.598.150 - 3.247.688 VND, this might give you some headroom depends on your country !!!!
