@@ -10,14 +10,17 @@ Schematic
 
 PCB
 
-<img width="719" height="901" alt="raytracedpcb" src="https://github.com/user-attachments/assets/b17f6681-ac61-4601-83b6-e886a453dbdd" />
+<img width="811" height="864" alt="1" src="https://github.com/user-attachments/assets/7ef2524f-ee71-4735-91f2-a075cdd64ea6" />
 
 
 
-<img width="715" height="879" alt="raytracedpcbback" src="https://github.com/user-attachments/assets/52c4b42c-87b6-4e3d-98b4-7991ed0addb4" />
+
+<img width="708" height="838" alt="2" src="https://github.com/user-attachments/assets/dae2c67c-2109-4e38-a759-f3cc8075d2f8" />
 
 
-<img width="729" height="858" alt="genuineslop" src="https://github.com/user-attachments/assets/3bf55481-7f93-4164-9abe-c2071af3b624" />
+
+<img width="579" height="837" alt="3" src="https://github.com/user-attachments/assets/b95a7e54-3baa-4649-8e10-9cfcd6c32b80" />
+
 
 
 
