@@ -1,6 +1,8 @@
 # Poc.mp3
 A mp3 player that fit into your pocket. With expandable micro sd storage, cool analog and digital VU meter. An AUX output so everyone is happy. All on the esp32
 
+I made this because I want a portable music player that can plays music without ads or wifi, just completely offline. Also, it's also a great project that helped me learn more about 4 layers pcb, smd soldering and component placements. Finally, it's a cool project that I have had in my mind for so long until I found out about hackclub and stardance, they fund the project for me for FREE!
+
 Schematic
 
 
